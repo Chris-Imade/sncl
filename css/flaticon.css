@@ -1,0 +1,271 @@
+/*!
+*	______ _	   _   _
+*	|  ____| |	 | | (_)
+*	| |__  | | __ _| |_ _  ___ ___  _ __
+*	|  __| | |/ _` | __| |/ __/ _ \| '_ \
+*	| |	| | (_| | |_| | (_| (_) | | | |
+*	|_|	|_|\__,_|\__|_|\___\___/|_| |_|
+*
+*		 https://www.flaticon.com
+*/
+@font-face {
+	font-family: "flaticon";
+	src: url("../fonts/flaticon.woff2%3F815181a2713b20723371688ceb9ed16f") format("woff2"),
+url("../fonts/flaticon.woff%3F815181a2713b20723371688ceb9ed16f") format("woff"),
+url("../fonts/flaticon.eot%3F815181a2713b20723371688ceb9ed16f") format("embedded-opentype"),
+url("../fonts/flaticon.ttf%3F815181a2713b20723371688ceb9ed16f") format("truetype"),
+url("../fonts/flaticon.svg%3F815181a2713b20723371688ceb9ed16f") format("svg")
+}
+i[class^="flaticon-"]:before, i[class*=" pbmit-agrimo-icon-"]:before {
+	font-family: flaticon !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.pbmit-agrimo-icon-grass:before {
+	content: "\f101";
+}
+.pbmit-agrimo-icon-egg:before {
+	content: "\f102";
+}
+.pbmit-agrimo-icon-honeycomb:before {
+	content: "\f103";
+}
+.pbmit-agrimo-icon-plant:before {
+	content: "\f104";
+}
+.pbmit-agrimo-icon-flower:before {
+	content: "\f105";
+}
+.pbmit-agrimo-icon-flower-1:before {
+	content: "\f106";
+}
+.pbmit-agrimo-icon-garden:before {
+	content: "\f107";
+}
+.pbmit-agrimo-icon-leaf:before {
+	content: "\f108";
+}
+.pbmit-agrimo-icon-plant-1:before {
+	content: "\f109";
+}
+.pbmit-agrimo-icon-lawnmower:before {
+	content: "\f10a";
+}
+.pbmit-agrimo-icon-warehouse:before {
+	content: "\f10b";
+}
+.pbmit-agrimo-icon-tree:before {
+	content: "\f10c";
+}
+.pbmit-agrimo-icon-tractor:before {
+	content: "\f10d";
+}
+.pbmit-agrimo-icon-plant-2:before {
+	content: "\f10e";
+}
+.pbmit-agrimo-icon-carrot:before {
+	content: "\f10f";
+}
+.pbmit-agrimo-icon-rake:before {
+	content: "\f110";
+}
+.pbmit-agrimo-icon-milk-bottle:before {
+	content: "\f111";
+}
+.pbmit-agrimo-icon-hand:before {
+	content: "\f112";
+}
+.pbmit-agrimo-icon-leaf-1:before {
+	content: "\f113";
+}
+.pbmit-agrimo-icon-plant-3:before {
+	content: "\f114";
+}
+.pbmit-agrimo-icon-water-spray:before {
+	content: "\f115";
+}
+.pbmit-agrimo-icon-water-bucket:before {
+	content: "\f116";
+}
+.pbmit-agrimo-icon-shovel:before {
+	content: "\f117";
+}
+.pbmit-agrimo-icon-water-well:before {
+	content: "\f118";
+}
+.pbmit-agrimo-icon-honey-dipper:before {
+	content: "\f119";
+}
+.pbmit-agrimo-icon-plant-4:before {
+	content: "\f11a";
+}
+.pbmit-agrimo-icon-scarecrow:before {
+	content: "\f11b";
+}
+.pbmit-agrimo-icon-plant-5:before {
+	content: "\f11c";
+}
+.pbmit-agrimo-icon-raining:before {
+	content: "\f11d";
+}
+.pbmit-agrimo-icon-stair:before {
+	content: "\f11e";
+}
+.pbmit-agrimo-icon-water-hose:before {
+	content: "\f11f";
+}
+.pbmit-agrimo-icon-plant-6:before {
+	content: "\f120";
+}
+.pbmit-agrimo-icon-rake-1:before {
+	content: "\f121";
+}
+.pbmit-agrimo-icon-shovel-1:before {
+	content: "\f122";
+}
+.pbmit-agrimo-icon-fence:before {
+	content: "\f123";
+}
+.pbmit-agrimo-icon-axe:before {
+	content: "\f124";
+}
+.pbmit-agrimo-icon-delivery-truck:before {
+	content: "\f125";
+}
+.pbmit-agrimo-icon-plant-7:before {
+	content: "\f126";
+}
+.pbmit-agrimo-icon-house:before {
+	content: "\f127";
+}
+.pbmit-agrimo-icon-mountain:before {
+	content: "\f128";
+}
+.pbmit-agrimo-icon-wheat:before {
+	content: "\f129";
+}
+.pbmit-agrimo-icon-greenhouse:before {
+	content: "\f12a";
+}
+.pbmit-agrimo-icon-sickle:before {
+	content: "\f12b";
+}
+.pbmit-agrimo-icon-pickaxe:before {
+	content: "\f12c";
+}
+.pbmit-agrimo-icon-shovel-2:before {
+	content: "\f12d";
+}
+.pbmit-agrimo-icon-dry-tree:before {
+	content: "\f12e";
+}
+.pbmit-agrimo-icon-tree-1:before {
+	content: "\f12f";
+}
+.pbmit-agrimo-icon-grass-1:before {
+	content: "\f130";
+}
+.pbmit-agrimo-icon-seed-bag:before {
+	content: "\f131";
+}
+.pbmit-agrimo-icon-faucet:before {
+	content: "\f132";
+}
+.pbmit-agrimo-icon-tree-2:before {
+	content: "\f133";
+}
+.pbmit-agrimo-icon-shoes:before {
+	content: "\f134";
+}
+.pbmit-agrimo-icon-house-1:before {
+	content: "\f135";
+}
+.pbmit-agrimo-icon-leaf-2:before {
+	content: "\f136";
+}
+.pbmit-agrimo-icon-leaves:before {
+	content: "\f137";
+}
+.pbmit-agrimo-icon-mountain-1:before {
+	content: "\f138";
+}
+.pbmit-agrimo-icon-plant-8:before {
+	content: "\f139";
+}
+.pbmit-agrimo-icon-tree-3:before {
+	content: "\f13a";
+}
+.pbmit-agrimo-icon-cloud:before {
+	content: "\f13b";
+}
+.pbmit-agrimo-icon-fence-1:before {
+	content: "\f13c";
+}
+.pbmit-agrimo-icon-forest:before {
+	content: "\f13d";
+}
+.pbmit-agrimo-icon-seed-bag-1:before {
+	content: "\f13e";
+}
+.pbmit-agrimo-icon-plant-9:before {
+	content: "\f13f";
+}
+.pbmit-agrimo-icon-clipboard:before {
+	content: "\f140";
+}
+.pbmit-agrimo-icon-desert:before {
+	content: "\f141";
+}
+.pbmit-agrimo-icon-flower-pot:before {
+	content: "\f142";
+}
+.pbmit-agrimo-icon-play-button:before {
+	content: "\f143";
+}
+.pbmit-agrimo-icon-down-arrow:before {
+	content: "\f144";
+}
+.pbmit-agrimo-icon-call:before {
+	content: "\f145";
+}
+.pbmit-agrimo-icon-email:before {
+	content: "\f146";
+}
+.pbmit-agrimo-icon-pin:before {
+	content: "\f147";
+}
+.pbmit-agrimo-icon-quotes:before {
+	content: "\f148";
+}
+.pbmit-agrimo-icon-shipped:before {
+	content: "\f149";
+}
+.pbmit-agrimo-icon-online-support:before {
+	content: "\f14a";
+}
+.pbmit-agrimo-icon-discount:before {
+	content: "\f14b";
+}
+.pbmit-agrimo-icon-gift:before {
+	content: "\f14c";
+}
+.pbmit-agrimo-icon-product-return:before {
+	content: "\f14d";
+}
+.pbmit-agrimo-icon-return-box:before {
+	content: "\f14e";
+}
+.pbmit-agrimo-icon-checked:before {
+	content: "\f14f";
+}
+.pbmit-agrimo-icon-phone-call:before {
+	content: "\f150";
+}
+.pbmit-agrimo-icon-email-1:before {
+	content: "\f151";
+}
